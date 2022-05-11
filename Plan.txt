@@ -3,3 +3,6 @@
 3. Determine how many different sections the site will have and what they will be
 4. Start placing the pictures
 5. Make a Navigation bar to go through different sites. 
+
+add a new line for testing 
+let's see if it works
